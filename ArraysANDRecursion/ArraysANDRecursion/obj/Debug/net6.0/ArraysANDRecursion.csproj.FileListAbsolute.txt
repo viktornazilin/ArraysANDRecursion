@@ -1,0 +1,15 @@
+/Users/viktornazilin/Projects/ArraysANDRecursion/ArraysANDRecursion/bin/Debug/net6.0/ArraysANDRecursion
+/Users/viktornazilin/Projects/ArraysANDRecursion/ArraysANDRecursion/bin/Debug/net6.0/ArraysANDRecursion.deps.json
+/Users/viktornazilin/Projects/ArraysANDRecursion/ArraysANDRecursion/bin/Debug/net6.0/ArraysANDRecursion.runtimeconfig.json
+/Users/viktornazilin/Projects/ArraysANDRecursion/ArraysANDRecursion/bin/Debug/net6.0/ArraysANDRecursion.dll
+/Users/viktornazilin/Projects/ArraysANDRecursion/ArraysANDRecursion/bin/Debug/net6.0/ArraysANDRecursion.pdb
+/Users/viktornazilin/Projects/ArraysANDRecursion/ArraysANDRecursion/obj/Debug/net6.0/ArraysANDRecursion.csproj.AssemblyReference.cache
+/Users/viktornazilin/Projects/ArraysANDRecursion/ArraysANDRecursion/obj/Debug/net6.0/ArraysANDRecursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktornazilin/Projects/ArraysANDRecursion/ArraysANDRecursion/obj/Debug/net6.0/ArraysANDRecursion.AssemblyInfoInputs.cache
+/Users/viktornazilin/Projects/ArraysANDRecursion/ArraysANDRecursion/obj/Debug/net6.0/ArraysANDRecursion.AssemblyInfo.cs
+/Users/viktornazilin/Projects/ArraysANDRecursion/ArraysANDRecursion/obj/Debug/net6.0/ArraysANDRecursion.csproj.CoreCompileInputs.cache
+/Users/viktornazilin/Projects/ArraysANDRecursion/ArraysANDRecursion/obj/Debug/net6.0/ArraysANDRecursion.dll
+/Users/viktornazilin/Projects/ArraysANDRecursion/ArraysANDRecursion/obj/Debug/net6.0/refint/ArraysANDRecursion.dll
+/Users/viktornazilin/Projects/ArraysANDRecursion/ArraysANDRecursion/obj/Debug/net6.0/ArraysANDRecursion.pdb
+/Users/viktornazilin/Projects/ArraysANDRecursion/ArraysANDRecursion/obj/Debug/net6.0/ArraysANDRecursion.genruntimeconfig.cache
+/Users/viktornazilin/Projects/ArraysANDRecursion/ArraysANDRecursion/obj/Debug/net6.0/ref/ArraysANDRecursion.dll
